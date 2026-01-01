@@ -1,7 +1,7 @@
 <!-- My Links -->
 [stats]: https://github.com/anuraghazra/github-readme-stats
-[website]: https://banakin.dev/
-[twitter]: https://twitter.com/Banakin9
+[website]: https://foxyote.com/
+[twitter]: https://x.com/RayFoxyote
 [youtube]: https://youtube.com/Banakin
 [dribbble]: https://dribbble.com/Banakin
 [spotify]: https://open.spotify.com/user/Banakin900
@@ -48,7 +48,7 @@
 [zig]: https://ziglang.org/
 
 <!-- Title -->
-<h1 align="center">Hey! I'm Brendan</h1>
+<h1 align="center">Hey! I'm Ray</h1>
 
 <br />
 
