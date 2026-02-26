@@ -12,6 +12,6 @@ The world has become less and less private throughout the course of my life, esp
 I have migrated my public repositories to [tangled.org][tangled]. All of my GitHub repositories I now consider read only mirrors or deprecated. I will also have access to Forgejo/Codeberg once I can federate.
 
 ### Socials
-<!-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>][website]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>][bsky]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>][tangled] -->
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" alt="javascript" width="20" height="20"/> Website][website]
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="typescript" width="20" height="20"/> Bluesky][bsky]
+- [<img src="https://assets.tangled.network/tangled_dolly_face_only_white_on_trans.svg" alt="typescript" width="20" height="20"/> Tangled][tangled]
