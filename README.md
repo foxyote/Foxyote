@@ -8,8 +8,8 @@
 <br />
 
 ## Where have I gone?
-The world has become less and less private throughout the course of my life, especially with the push towards _the cloud_, and with increased collection due to the demand for ML datasets. I am tired.
-I have migrated my public repositories to [tangled.org][tangled]. All of my GitHub repositories I now consider read only mirrors or deprecated. I will also have access to Forgejo/Codeberg once I can federate.
+The world has become less and less private throughout the course of my life, especially with the push towards _the cloud_. This has only worsened due to the demand for ML datasets. I am tired.
+I have migrated my public repositories to [tangled.org][tangled]. All of my GitHub repositories are now considered **read-only** mirrors or **deprecated**. I will also have access to Forgejo/Codeberg once I can federate. I may occasionally still use GitHub to interact with projects still hosted here. But do not expect anything from me here.
 
 ### Socials
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" alt="javascript" width="20" height="20"/> Website][website]
